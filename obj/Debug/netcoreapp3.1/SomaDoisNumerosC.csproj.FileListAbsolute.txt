@@ -1,0 +1,13 @@
+C:\Users\mrodr\Documents\SomaDoisNumerosC\bin\Debug\netcoreapp3.1\SomaDoisNumerosC.exe
+C:\Users\mrodr\Documents\SomaDoisNumerosC\bin\Debug\netcoreapp3.1\SomaDoisNumerosC.deps.json
+C:\Users\mrodr\Documents\SomaDoisNumerosC\bin\Debug\netcoreapp3.1\SomaDoisNumerosC.runtimeconfig.json
+C:\Users\mrodr\Documents\SomaDoisNumerosC\bin\Debug\netcoreapp3.1\SomaDoisNumerosC.runtimeconfig.dev.json
+C:\Users\mrodr\Documents\SomaDoisNumerosC\bin\Debug\netcoreapp3.1\SomaDoisNumerosC.dll
+C:\Users\mrodr\Documents\SomaDoisNumerosC\bin\Debug\netcoreapp3.1\SomaDoisNumerosC.pdb
+C:\Users\mrodr\Documents\SomaDoisNumerosC\obj\Debug\netcoreapp3.1\SomaDoisNumerosC.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\SomaDoisNumerosC\obj\Debug\netcoreapp3.1\SomaDoisNumerosC.AssemblyInfoInputs.cache
+C:\Users\mrodr\Documents\SomaDoisNumerosC\obj\Debug\netcoreapp3.1\SomaDoisNumerosC.AssemblyInfo.cs
+C:\Users\mrodr\Documents\SomaDoisNumerosC\obj\Debug\netcoreapp3.1\SomaDoisNumerosC.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\SomaDoisNumerosC\obj\Debug\netcoreapp3.1\SomaDoisNumerosC.dll
+C:\Users\mrodr\Documents\SomaDoisNumerosC\obj\Debug\netcoreapp3.1\SomaDoisNumerosC.pdb
+C:\Users\mrodr\Documents\SomaDoisNumerosC\obj\Debug\netcoreapp3.1\SomaDoisNumerosC.genruntimeconfig.cache
